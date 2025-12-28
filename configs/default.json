@@ -1,0 +1,6 @@
+{
+    "project":"Agent Reliability & Reward Lab",
+    "seed": 42,
+    "n_eval_tasks":10,
+    "trace_path":"artifacts/traces/day1_trace.jsonl"
+}
