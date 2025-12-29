@@ -23,6 +23,5 @@ def main():
     print(f"[eval] success={result.success}/{result.n_tasks}")
     print(f"[trace] {trace_path}")
 
-
 if __name__ == "__main__":
     main()
